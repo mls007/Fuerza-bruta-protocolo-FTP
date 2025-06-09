@@ -6,12 +6,12 @@ from colorama import Fore, Back, Style
 
 
 print(Fore.CYAN + '''
-.d8888. d8888b.  .d8b.  d8888b. d888888b  .d8b.   .d8b.  
-88'  YP 88  `8D d8' `8b 88  `8D `~~88~~' d8' `8b d8' `8b 
-`8bo.   88oodD' 88ooo88 88oobY'    88    88ooo88 88ooo88 
-  `Y8b. 88~~~   88~~~88 88`8b      88    88~~~88 88~~~88 
-db   8D 88      88   88 88 `88.    88    88   88 88   88 
-`8888Y' 88      YP   YP 88   YD    YP    YP   YP YP   YP
+.d8888. d8888b.  .d8b.  d8888b. d888888b  .d8b.   .d8b.   .d8b.  
+88'  YP 88  `8D d8' `8b 88  `8D `~~88~~' d8' `8b d8' `8b d8' `8b 
+`8bo.   88oodD' 88ooo88 88oobY'    88    88ooo88 88ooo88 88ooo88 
+  `Y8b. 88~~~   88~~~88 88`8b      88    88~~~88 88~~~88 88~~~88 
+db   8D 88      88   88 88 `88.    88    88   88 88   88 88   88 
+`8888Y' 88      YP   YP 88   YD    YP    YP   YP YP   YP YP   YP 
 ''' + Style.RESET_ALL)
 
 print(Fore.GREEN + "Creado por Spartaa" + Style.RESET_ALL)
