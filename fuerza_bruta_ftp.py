@@ -14,7 +14,7 @@ db   8D 88      88   88 88 `88.    88    88   88 88   88 88   88
 `8888Y' 88      YP   YP 88   YD    YP    YP   YP YP   YP YP   YP 
 ''' + Style.RESET_ALL)
 
-print(Fore.GREEN + "Creado por Spartaa" + Style.RESET_ALL)
+print(Fore.GREEN + "Creado por Spartaaa" + Style.RESET_ALL)
 print(Back.RED + "Recuerda agregar el listado de USUARIOS y CONTRASEÑAS en el código.\n" + Style.RESET_ALL) 
 
 def valida_ip(ip):
